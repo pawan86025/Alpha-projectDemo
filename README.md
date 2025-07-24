@@ -1,2 +1,3 @@
 # Alpha-projectDemo
-This is my Repository
+This is my Git Repository
+Author - Pawan kushwaha
